@@ -1,0 +1,14 @@
+.acf-field-dynamic-text-inputs__input.hidden {
+	display: none;
+}
+
+div.acf-field-dynamic-text-inputs__input {
+	display: flex;
+	align-items: center;
+	padding-bottom: 15px;
+}
+
+a.acf-field-dynamic-text-inputs__button-remove {
+	color: #a00;
+	padding: 0 15px;
+}
